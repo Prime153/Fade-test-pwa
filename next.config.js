@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: "export",
-  basePath: "/fade-test-pwa",
+  basePath: "/Fade-test-pwa",
   images: {
     unoptimized: true,
   },
