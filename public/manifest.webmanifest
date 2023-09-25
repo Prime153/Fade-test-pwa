@@ -4,6 +4,7 @@
     "display": "standalone",
     "scope": "",
     "start_url": "",
+    "homepage": "https://github.com/Prime153/Fade-test-pwa",
     "name": "fade test paw",
     "short_name": "fade paw",
     "icons": [
