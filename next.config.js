@@ -8,7 +8,11 @@ const nextConfig = {
     register: true,
     skipWaiting: true,
   }),
+  output: "export",
   basePath: "/Fade-test-pwa",
+  images: {
+    unoptimized: true,
+  },
 };
 
 module.exports = nextConfig;
