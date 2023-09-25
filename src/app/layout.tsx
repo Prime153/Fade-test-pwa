@@ -4,7 +4,7 @@ import Navbar from "@/components/Navbar/NavBar";
 
 export const metadata: Metadata = {
   title: "Fade CLient Portal",
-  manifest: "%PUBLIC_URL%/manifest.json",
+  manifest: "/Fade-test-pwa/manifest.json",
   icons: { apple: "/android-chrome-256x256.png" },
 };
 
