@@ -4,6 +4,8 @@ import Navbar from "@/components/Navbar/NavBar";
 
 export const metadata: Metadata = {
   title: "Fade CLient Portal",
+  manifest: "/manifest.json",
+  icons: { apple: "/android-chrome-256x256.png" },
 };
 
 export default function RootLayout({
