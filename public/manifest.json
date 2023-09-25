@@ -2,8 +2,8 @@
     "theme_color": "#f69435",
     "background_color": "#f69435",
     "display": "standalone",
-    "scope": "/",
-    "start_url": "/",
+    "scope": "/Fade-test-pwa",
+    "start_url": "/Fade-test-pwa",
     "name": "fade test paw",
     "short_name": "fade paw",
     "icons": [
